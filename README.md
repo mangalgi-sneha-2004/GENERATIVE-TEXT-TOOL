@@ -59,3 +59,7 @@ models, while the safety features ensure stable operation across diverse deploym
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/199d0a23-2a62-42cb-9639-79b5aedf966f)
+
+![Image](https://github.com/user-attachments/assets/2357dbb2-d044-41b2-84e6-60de88c132a1)
+
